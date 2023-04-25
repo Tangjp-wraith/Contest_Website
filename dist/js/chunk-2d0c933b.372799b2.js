@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c933b"],{"57ad":function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v(" 比赛 ")])},s=[],a={name:"Contests"},u=a,o=t("2877"),r=Object(o["a"])(u,c,s,!1,null,"052d728b",null);e["default"]=r.exports}}]);
+//# sourceMappingURL=chunk-2d0c933b.372799b2.js.map
