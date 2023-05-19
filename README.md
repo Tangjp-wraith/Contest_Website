@@ -38,5 +38,5 @@
 
 ## 在线预览
 
-http://contest.zhangguapi.com
+[101.42.34.63](http://101.42.34.63/)
 
